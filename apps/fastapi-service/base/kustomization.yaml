@@ -3,7 +3,3 @@ kind: Kustomization
 resources:
 - deployment.yaml
 - service.yaml
-images:
-- name: my-image
-  newName: valonjanuzaj/kubernetes-demo
-  newTag: something
