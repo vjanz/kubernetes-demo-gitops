@@ -10,4 +10,4 @@ namespace: kubernetes-demo-dev
 images:
 - name: example-image
   newName: valonjanuzaj/kubernetes-demo
-  newTag: 14d614470e5afaaa4b278b191adfbb7b9fa5b9f2
+  newTag: 756988a601e5ba56b2d32bfbff90363a8ea2c869
