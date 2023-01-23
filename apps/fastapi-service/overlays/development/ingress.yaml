@@ -8,11 +8,11 @@ spec:
   # Add tls section
   tls:
     - hosts:
-        - "dev.vjanztutorials.tech"
+        - "demo.vjanztutorials.tech"
       secretName: kubernetes-demo-tls
   ingressClassName: nginx
   rules:
-    - host: "dev.vjanztutorials.tech"
+    - host: "demo.vjanztutorials.tech"
       http:
         paths:
           - backend:
