@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: kubernetes-demo
-          image: my-image
+          image: example-image
           ports:
             - containerPort: 8000
           envFrom:
