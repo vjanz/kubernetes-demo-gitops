@@ -3,4 +3,4 @@ kind: Deployment
 metadata:
   name: kubernetes-demo
 spec:
-  replicas: 3
+  replicas: 1
