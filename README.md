@@ -1,4 +1,5 @@
 # kuberntes-demo-gitops
+See the application source code: [kubernetes-demo-app](https://github.com/vjanz/kubernetes-demo-app)
 
 ## Project sturcture
 ```
